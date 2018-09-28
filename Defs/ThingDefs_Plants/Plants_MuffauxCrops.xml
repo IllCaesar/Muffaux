@@ -5,7 +5,7 @@
  <ThingDef ParentName="PlantBaseMuffaux">
 		<defName>Plant_MuffauxPotato</defName>
 		<label>Muffauxtato plant</label>
-		<description>One of the losers who got tricked into creating the Muffaux Tree thought that it would fun to use that mad science as a prank and thus the Muffauxtato was created. Potato on the inside, wool on the inside. Please don't feed it to anybody.</description>
+		<description>One of the losers who got tricked into creating the Muffaux Tree thought that it would fun to use that mad science as a prank and thus the Muffauxtato was created. Potato on the outside, wool on the inside. Please don't feed it to anybody.</description>
 		<statBases>
 			<MaxHitPoints>85</MaxHitPoints>
 			<Nutrition>0.05</Nutrition>
